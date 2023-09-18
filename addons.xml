@@ -4,7 +4,7 @@
 	<extension point="xbmc.addon.repository" name="Repositório Teste">
 		<info compressed="false">https://raw.githubusercontent.com/juninho122019/Repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/juninho122019/Repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/zoreu/meuaddon/master/zip/</datadir>
+		<datadir zip="true">https://github.com/juninho122019/Repo/tree/master/zip</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repositório Teste</summary>
@@ -41,7 +41,7 @@
  <extension point="xbmc.addon.repository" name="Repositório Teste">
 	<info compressed="false">https://raw.githubusercontent.com/juninho122019/Repo/master/addons.xml</info>
 	<checksum>https://raw.githubusercontent.com/juninho122019/Repo/master/addons.xml.md5</checksum>
-	<datadir zip="true">http://raw.github.com/zoreu/meuaddon/master/zip/</datadir>
+	<datadir zip="true">https://github.com/juninho122019/Repo/tree/master/zip</datadir>
   </extension>
   
   <extension point="xbmc.addon.metadata">
